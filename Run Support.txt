@@ -1,0 +1,2 @@
+cd /d "C:\Users\J01-L0144\Desktop\Clause-Test" && "C:\Program Files\nodejs\npm.cmd" run dev
+http://localhost:5174
